@@ -1,3 +1,8 @@
+
+
+
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/5d2a9e63-6658-4233-a4ac-b3257aaf13c7" />
+
 🐍💧🔫 SNAKE WATER GUN GAME 🔫💧🐍
 =================================
 
