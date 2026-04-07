@@ -1,0 +1,8 @@
+## 🧠 How It Works
+
+The game randomly selects a choice for the computer and compares it with the user's input using conditional logic.
+
+Winning conditions:
+- Snake beats Water
+- Water beats Gun
+- Gun beats Snake
